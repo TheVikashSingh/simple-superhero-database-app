@@ -1,4 +1,4 @@
-<img width="733" height="446" alt="Screenshot 2025-08-27 181441" src="https://github.com/user-attachments/assets/25612c73-dbd9-48ae-8000-dccaa4348eb0" /># 🚀 simple-superhero-database-app
+# 🚀 simple-superhero-database-app
 
 
 A basic react+vite app to view database of superheroes from Marvel and DC Universe. Designed to practice React Hooks like useState, useQuery, useMutation etc.
