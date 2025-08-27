@@ -31,4 +31,9 @@ A basic react+vite app to view database of superheroes from Marvel and DC Univer
 - Explored React Router DOM for navigation
 - Understood how JSON Server simulates a real backend
 
+Website Screenshots:-
 <img width="1189" height="1374" alt="image" src="https://github.com/user-attachments/assets/15ecc06d-d154-4bb0-b372-ba3856e262fa" />
+<img width="1175" height="1292" alt="image" src="https://github.com/user-attachments/assets/6259d90f-8033-4be7-b69c-c70752070dd9" />
+<img width="1204" height="1300" alt="image" src="https://github.com/user-attachments/assets/f3ae09cc-80bd-4b79-b565-f8a551d23b18" />
+
+
